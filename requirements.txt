@@ -7,3 +7,6 @@ tqdm
 scikit-learn 
 hazm
 kagglehub
+matplotlib
+pandas
+requests
