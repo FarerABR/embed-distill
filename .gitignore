@@ -1,1 +1,17 @@
 .env
+/data
+/embeddings
+/models
+
+# Data & embeddings (too large for git)
+*.npy
+*.txt
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Model checkpoints
+*.pt
+*.bin
