@@ -6,7 +6,6 @@
 # Data & embeddings (too large for git)
 *.npy
 *.txt
-*.csv
 
 # Jupyter
 .ipynb_checkpoints/
